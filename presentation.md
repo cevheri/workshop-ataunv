@@ -21,23 +21,28 @@
 
 ---
 
-## 2. Our Technology Stack
+## 2. Technology Stack for Computer Science Students
 ### Programming Languages
-- **Backend**: Python, Java
+- **Backend**: Python, Java, Dart,
 - **Frontend**: Angular, React, Flutter
 - **Mobile**: Flutter
+- **Industry Popular Languages**: JavaScript, TypeScript, Go, Rust, C#, PHP, Swift, Kotlin, etc.
 
 ### Infrastructure & Platforms
 - **Open-source Technologies**: Key tools and frameworks
 - **Linux Environments**: Server configurations and administration
 - **Cloud Computing**: AWS/Azure/GCP implementations
 - **DevOps Practices**: CI/CD pipelines, Docker, Kubernetes
+- **Git**: GitHub, GitLab, Bitbucket
 
 ### Data Technologies
-- **Databases**: PostgreSQL, MongoDB, Oracle
-- **Search & Analytics**: Elasticsearch
-- **Message Brokering**: Apache Kafka
+- **Databases**: PostgreSQL, Oracle, MySQL, SQL Server, etc.
+- **NoSQL**: MongoDB, Cassandra, Couchbase
+- **Cloud Databases**: AWS DynamoDB, Azure Cosmos DB, Google Cloud Spanner, Firestore, YugabyteDB, etc.
+- **Search & Analytics**: Elasticsearch, OpenSearch
+- **Message Brokering**: Kafka, RabbitMQ
 - **Data Warehousing**: ETL processes, data modeling
+- **Big Data**: Hadoop, Spark, BigQuery, Snowflake, Databricks, etc.
 - **AI & ML**: Machine learning pipelines, LLM-based applications
 
 ### Development Practices
@@ -62,6 +67,7 @@
 - **Embedding**: OpenAI, Anthropic, Gemini, GPT, Claude, LLama, Gemini, etc.
 - **Vector Databases**: Milvus, Chroma, Faiss, Qdrant, Weaviate, etc.
 - **Technologies**: GitHub, GitLab, Hugging Face, LangChain, AutoGen, etc.
+- **Deploy Apps**: Hugging Face, Render, Vercel, etc.
 
 ---
 
@@ -166,12 +172,16 @@
 - **Timeless Skills**: What will always be valuable
 
 
-## AI Code Editors
-- **GitHub Copilot**: [https://copilot.github.com/](https://copilot.github.com/)
+## Code Editors and Assistants
+- **JetBrains**: [https://www.jetbrains.com/](https://www.jetbrains.com/)
+- **Android Studio**: [https://developer.android.com/studio](https://developer.android.com/studio)
 - **VsCode**: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+- **VsCode web**: [https://vscode.dev/](https://vscode.dev/)
+- **GitHub Copilot**: [https://copilot.github.com/](https://copilot.github.com/)
 - **Cursor**: [https://www.cursor.com/](https://www.cursor.com/)
 - **Windsurf**: [https://windsurf.com/](https://windsurf.com/)
 - **TraeAI**: [https://trae.ai/](https://trae.ai/)
+- **Firebase Studio**: [https://studio.firebase.google.com/](https://studio.firebase.google.com/)
 
 ---
 
@@ -203,7 +213,7 @@
 
 ---
 
-## Some of Our Projects
+## Some of Our AI Projects
 - RFP Responder
 - Defect Solver
 - Task Detector
