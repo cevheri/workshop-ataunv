@@ -1,11 +1,12 @@
 # Technology Landscape and Career Preparation for Computer Science Students
+
 **A Presentation by M.Cevheri BOZOGLAN, Senior Software and AI Engineer**  
 **Intellica AI and DWH**
 
 ---
 
 ## 1. Introduction
-### About Me: M.Cevheri BOZOGLAN
+### About Me
 - **Role**: Senior Software and Artificial Intelligence Engineer / Manager
 - **Company**: Intellica AI and DWH
 - **Experience**: Software Engineer, DevOps Engineer, AI Engineer, Team Leader, Manager
@@ -61,9 +62,9 @@
 - **Generative AI**: LLM-based applications
 - **Agentic AI**: AI Agents, LLM-based applications
 - **MCP**: Model Context Protocol, Agentic AI
-- **LLM**: OpenAI, Anthropic, Gemini, GPT, Claude, LLama, Groq, Mistral, DeepSeek, Qwen
-- **Local**: Ollama, LM Studio, LiteLM, JanAI, etc.
-- **RAG**: Retreival Augmented Generation
+- **LLM**: OpenAI, Gemini, Claude, LLama, Groq, DeepSeek, Qwen
+- **Local**: Ollama, LM Studio, LiteLLM, JanAI, etc.
+- **Agentic AI**: AutoGen, LangChain, n8n, crewai, manus, etc.
 - **Embedding**: OpenAI, Anthropic, Gemini, GPT, Claude, LLama, Gemini, etc.
 - **Vector Databases**: Milvus, Chroma, Faiss, Qdrant, Weaviate, etc.
 - **Technologies**: GitHub, GitLab, Hugging Face, LangChain, AutoGen, etc.
@@ -228,6 +229,9 @@
 - [Azure for Students](https://azure.microsoft.com/en-us/free/students/) 
 - [IBM SkillsBuild for Students](https://skillsbuild.org/college-students)
 - [Cursor Student Program](https://www.cursor.com/student)
+- [Intellica Summer Camp]
+- [PiA Summer Camp]
+
 ---
 
 ## Q&A Session (Remaining Time)
