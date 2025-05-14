@@ -228,7 +228,7 @@
 - [AWS Educate](https://aws.amazon.com/education/awseducate/)
 - [Azure for Students](https://azure.microsoft.com/en-us/free/students/) 
 - [IBM SkillsBuild for Students](https://skillsbuild.org/college-students)
-- [Cursor Student Program](https://www.cursor.com/student)
+- [Cursor Student Program](https://www.cursor.com/students)
 - [Intellica Summer Camp]
 - [PiA Summer Camp]
 
